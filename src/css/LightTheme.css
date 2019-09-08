@@ -1,0 +1,51 @@
+.light-theme {
+    color: cornflowerblue;
+    background-color: white;
+  }
+
+
+.light-theme #themeButton{
+  color: white;
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+
+}
+
+.light-theme .lightButton{
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  color: white
+}
+
+
+.light-theme .darkButton{
+  background-color: white; 
+  border-color: white;
+}
+
+.light-theme .forestButton{
+  background-color: white;
+  border-color: white;
+}
+
+.light-theme .SHOW_ALL .all{
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  color:white;
+}
+
+.light-theme .SHOW_ACTIVE .active{
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  color:white;
+}
+
+.light-theme .SHOW_COMPLETED .complete{
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  color:white;
+}
+
+.light-theme .headerDiv{
+  background-color: #002447;
+}

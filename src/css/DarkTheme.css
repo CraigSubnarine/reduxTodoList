@@ -1,0 +1,49 @@
+.dark-theme {
+  color: crimson;
+  background-color: #333;
+}
+
+.dark-theme #themeButton{
+  color: white;
+  background-color: crimson;
+  border-color: crimson
+}
+
+.dark-theme .lightButton{
+  background-color: white;
+  border-color: white;
+}
+
+
+.dark-theme .darkButton{
+  background-color: crimson;
+  border-color: crimson;
+  color: white;
+}
+
+.dark-theme .forestButton{
+  background-color: white;
+  border-color: white; 
+}
+
+.dark-theme .SHOW_ALL .all{
+  background-color: crimson;
+  border-color: crimson;
+  color:white;
+}
+
+.dark-theme .SHOW_ACTIVE .active{
+  background-color: crimson;
+  border-color: crimson;
+  color:white;
+}
+
+.dark-theme .SHOW_COMPLETED .complete{
+  background-color: crimson;
+  border-color: crimson;
+  color:white;
+}
+
+.dark-theme .headerDiv{
+  background-color:#333;
+}

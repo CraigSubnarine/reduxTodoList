@@ -1,0 +1,50 @@
+.green-theme {
+    color: #5a3921;
+    background-color: #74b49b;
+  }
+
+  .green-theme #themeButton{
+    color: white;
+    background-color: #5a3921;
+    border-color: #5a3921;
+  
+  }
+  
+  .green-theme .lightButton{
+    background-color: white;
+    border-color: white;
+  }
+  
+  
+  .green-theme .darkButton{
+    background-color: white; 
+    border-color: white;
+  }
+  
+  .green-theme .forestButton{
+    background-color: #5a3921;
+    border-color: #5a3921;
+    color: white;
+  }
+
+  .green-theme .SHOW_ALL .all{
+    background-color: #5a3921;
+    border-color: #5a3921;
+    color:white;
+  }
+  
+  .green-theme .SHOW_ACTIVE .active{
+    background-color: #5a3921;
+    border-color: #5a3921;
+    color:white
+  }
+  
+  .green-theme .SHOW_COMPLETED .complete{
+    background-color: #5a3921;
+    border-color: #5a3921;
+    color:white;
+  }
+
+  .green-theme .headerDiv{
+    background-color: #023924;
+  }
